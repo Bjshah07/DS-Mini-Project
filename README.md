@@ -55,7 +55,7 @@ The Power BI dashboard provides interactive visualizations to explore the follow
 
 ## Project Screenshot
 
-![Dashboard Screenshot](link_to_screenshot.png)
+![Image](https://github.com/user-attachments/assets/2c33a763-4c2e-4e71-9231-3ee5c6a6400c)
 
 ## Live Dashboard Link
 
